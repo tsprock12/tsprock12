@@ -1,0 +1,19 @@
+- 👋 Hi, I’m @tsprock12
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+ _                            _    _ ____  
+| |_ ___ _ __  _ __ ___   ___| | _/ |___ \ 
+| __/ __| '_ \| '__/ _ \ / __| |/ / | __) |
+| |_\__ \ |_) | | | (_) | (__|   <| |/ __/ 
+ \__|___/ .__/|_|  \___/ \___|_|\_\_|_____|
+        |_|                                
+
+<!---
+tsprock12/tsprock12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
